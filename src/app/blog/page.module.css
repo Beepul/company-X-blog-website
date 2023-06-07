@@ -1,0 +1,30 @@
+.mainContainer{
+    padding-top: 40px;
+}
+.container{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    margin-bottom: 50px;
+}
+.imgContainer{
+    position: relative;
+    height: 300px;
+    width: 30%;
+}
+.image{
+    object-fit: cover;
+}
+
+.content{
+    width: 70%;
+}
+
+.title{
+    margin-bottom: 10px;
+}
+
+.desc{
+    font-size: 18px;
+    color: #999;
+}
